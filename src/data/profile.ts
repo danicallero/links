@@ -1,6 +1,6 @@
 export const PROFILE = {
   avatar: 'https://github.com/danicallero.png',
-  name: 'Daniel Costales',
+  name: 'Daniel Callero Costales',
   tagline: '',
   location: 'A Coruña',
   avatarShape: undefined as 'circle' | 'rounded' | 'hexagon' | undefined,
