@@ -1,5 +1,5 @@
 export const PROFILE = {
-  avatar: 'https://github.com/danicostales.png',
+  avatar: 'https://github.com/danicallero.png',
   name: 'Daniel Costales',
   tagline: '',
   location: 'A Coruña',
